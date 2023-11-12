@@ -24,7 +24,7 @@ To address this challenge, Helpy offers a comprehensive solution that includes a
 ## Solution
 
 
-The proposed solution is blockchain-based application that involves the use of a token as a substitute for the real money for various donations. The token is programmed to allow its use only for authorized purposes. In addition, the use of a public blockchain allows anyone, at any time, to verify how and when the funds collected are used.
+The proposed solution is blockchain-based application that involves the use of a token as a substitute for the real money for donations. The token is programmed to allow its use only for authorized purposes. In addition, the use of a public blockchain allows anyone, at any time, to verify how and when the funds collected are used.
 
 The citizens who act as donors, through a public portal, can buy a certain amount of tokens and then send them to the Red Cross. The Red cross association will be able to use them for authorized services such as supermarkets to collect food, stationery, medicines and other products of daily use for families. For the purchase of these goods, merchants will directly receive fiat currency. An automatic exchange between token and fiat is direclty provided by the smart contract for all registered merchants. In the future to promote charitable initiatives, supermarkets or other businesses participating on the platform will be able to offer discounts and promotions redeemable by the donor. The proposed solution provides a fast and transparent system for anyone who wants to give to charity, which can also be used directly from their computer or mobile device.
 
