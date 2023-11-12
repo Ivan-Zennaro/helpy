@@ -1,6 +1,5 @@
 # Helpy
 
----
 
 Helpy is a new solution on Algorand blockchain to ensure a secure and transparent donation system for thousands of humanitarian aid organizations
 
@@ -11,12 +10,11 @@ Helpy is a new solution on Algorand blockchain to ensure a secure and transparen
 1. [Introduction](#introduction)
 2. [Solution](#solution)
 3. [Implementation choices](#implementation-choices)
-4. [How to test](#how-to-test)
-5. [Conclusion](#conclusion)
+4. [Test Setup](#test-setup)
+5. [Demo](#demo)
 
 ## Introduction
 
----
 
 Voluntary societies are those associations that carry out non-profit activities with social, civil or cultural aims, and exclusively for the purpose of social solidarity. Often these societies propose fundraising campaigns, in which citizens can contribute by paying a certain amount of money. The money raised in this way is supposed to be used for charitable purposes associated with the company's field of work. However, these collected funds are not always used for their proper purpose and there is often no way to even verify how they were spent. The lack of transparency in this can create unease for contributors due to the lack of certainty of how their contributions are being used by the charitable company. This can also be a cause of less participation by citizens to this type of activity.
 
@@ -25,7 +23,6 @@ To address this challenge, Helpy offers a comprehensive solution that includes a
 
 ## Solution
 
----
 
 The proposed solution is blockchain-based application that involves the use of a token as a substitute for the real money for various donations. The token is programmed to allow its use only for authorized purposes. In addition, the use of a public blockchain allows anyone, at any time, to verify how and when the funds collected are used.
 
@@ -33,13 +30,10 @@ The citizens who act as donors, through a public portal, can buy a certain amoun
 
 ## Implementation choices
 
----
 
 Algorand, thanks to its high throughput and instant finality, is a perfect platform for the implementation of the desired solution. The user experience offered respects the high standards that we can find in classic web 2.0 applications, but it also increases security and transparency due to the presence of a public and immutable registry. Helpy uses a smart ASA following [ARC0020](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0020.md) specification This ARC allows to put transfer logic inside an ASA token. Further details are included within the smart contract.
 
-## How to test
-
----
+## Test Setup
 
 ### Initial setup
 
@@ -92,12 +86,8 @@ Testing accounts:
   - Mnemonic: style palace vocal access teach sunset flag answer only siege stick sample happy they cruise fire brick fortune holiday eternal napkin lamp tail about junk
   - Address: XEYYPHWL2TQTACQMOOYTGZQPW3RRR5F2NOW2DQRDTF52KQ4XVTQ7XOJ7DU
 
-### Functionalities
+## Demo
 
-#### Donor
+A demo video is provided [here](https://youtube.com)
 
-#### Red Cross
 
-#### Merchant
-
-## Conclusion
