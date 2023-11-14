@@ -3,14 +3,6 @@ import { useWallet } from "@txnlab/use-wallet";
 import crt from "./crt.json";
 import { CRI_ASA_ID, USDC_ASA_ID, APP_ID, CONTRACT_ADD } from "../constants";
 
-//For Purestake
-/* const algodToken = {
-  "X-API-Key": "dUAm46iRb73HzsHBrEYGr1nVw81Yc0Kp5eiNmZDF",
-};
-const algodServer = "https://testnet-algorand.api.purestake.io/ps2";
-const algodPort = "";
- */
-
 const algodToken = "";
 const algodServer = "https://testnet-api.algonode.cloud/";
 const algodPort = "";
