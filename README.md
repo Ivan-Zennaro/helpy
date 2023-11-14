@@ -85,6 +85,8 @@ Testing accounts:
 
 ## Demo
 
-A demo video is provided [here](https://youtube.com)
+The pitch video that includes the demo is provided [here](https://www.youtube.com/watch?v=oJoQRzxthaA)
+
+
 
 
